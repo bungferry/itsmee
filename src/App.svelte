@@ -38,7 +38,7 @@
       </a>
     </li>
     <li>
-      <a target="_blank" href="https://twitter.com/ayundaferry">
+      <a target="_blank" href="https://twitter.com/bungferry_">
         <i class="fa fa-twitter"></i>
       </a>
     </li>
